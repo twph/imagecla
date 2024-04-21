@@ -1,0 +1,6 @@
+python=3.9
+numpy
+matplotlib
+streamlit
+tensorflow
+pillow
